@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rubén Cruz García</h1>
-<h3 align="center">Data Scientist at Proppos</h3>
+<h3 align="center">MLOps Engineer at knowmad mood</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
